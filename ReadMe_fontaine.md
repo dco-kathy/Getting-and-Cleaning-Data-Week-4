@@ -1,4 +1,4 @@
-This file explains the code in run_analysis.R.  All related code and files are at 
+This file explains the code in run_analysis.R.  All related code and files are at https://github.com/dco-kathy/Getting-and-Cleaning-Data-Week-4
 
 The code was written in R version 3.6.3
 Data was extracted from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip on April 20, 2020.
